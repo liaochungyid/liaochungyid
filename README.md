@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I desire to change my career into soft engineering which is quite different from my experiences.
+- 🔭 I have tried some industries, like civil engineering, marine engineering as well as environmental engineering. 
+- ⚡ I always worked on some coding (python) by myself and excited about those puzzles or new understandings.
+- 🤔 I'm currently leraning HTML, CSS as well as Javescript. There are more backend skills coming soon.
+- 🌱 I choose Alpha Camp to be a "real beginning" and had set a crystal clear target and will get there ASAP. 
+
+---
+
+- 📫  Here you can see how I love to show myself with this wonderful planet we live 🌏 https://www.instagram.com/liaochungyid/
+
 <!--
 **liaochungyid/liaochungyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
