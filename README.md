@@ -3,7 +3,7 @@
 I desire to change my career into soft engineering which is quite different from my experiences.
 - 🔭 I have tried some industries, like civil engineering, marine engineering as well as environmental engineering. 
 - ⚡ I always worked on some coding (python) by myself and excited about those puzzles or new understandings.
-- 🤔 I'm currently leraning HTML, CSS as well as Javescript. There are more backend skills coming soon.
+- 🤔 I'm currently keeping leraning full-stack, including React, Nextjs, Express, Appwrites and so on.
 - 🌱 I choose Alpha Camp to be a "real beginning" and had set a crystal clear target and will get there ASAP. 
 
 ---
