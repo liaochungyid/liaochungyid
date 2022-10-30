@@ -9,7 +9,7 @@ I desire to change my career into soft engineering which is quite different from
 ---
 
 - 🤳 Here you can see how I love to show myself with this wonderful planet we live 🌏 [INSTAGRAM](https://www.instagram.com/liaochungyid/)
-- 💬 Here you can know more about me 🧐 [github page](https://liaochungyid.github.io/self/)
+- 💬 Here you can know more about me 🧐 [github page](https://liaochungyid.github.io/about-me/)
 
 <!--
 **liaochungyid/liaochungyid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
